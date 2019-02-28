@@ -1,2 +1,2 @@
 # durationGame
-Test https://www.promodescuentos.com
+Test <a href="https://www.promodescuentos.com" rel="follow">asasda</a>
